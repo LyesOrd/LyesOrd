@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlzNTlqdTVnMmE1anZmcXZvc29wNmFrZmRnM3RxdjN4YmIxMzM0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/lyesdevelopment/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,7 +20,7 @@
 - Je m'appelle Lyes, j'ai 23 ans et je suis développeur Full-Stack en Alternance depuis 1 an 💻. Ayant fait 2 ans au sein de l'université UCBL en Mathématiques-Informatique et ma 3ème année au sein du Bachelor 3 - Développemnt D'YNOV, j'intègre l'année prochaine le Master 1 Expert Développement Web de la même école.
 ---
 
-### :hammer_and_wrench: Langages et Outils Utilisés :
+### Langages et Outils Utilisés :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"  title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
