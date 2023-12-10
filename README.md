@@ -15,7 +15,7 @@
 </div>
 
 ---
-### :man_technologist: A Propos de moi :
+### A Propos de moi :
 
 - Je m'appelle Lyes, j'ai 23 ans et je suis développeur Full-Stack en Alternance depuis 1 an 💻. Ayant fait 2 ans au sein de l'université UCBL en Mathématiques-Informatique et ma 3ème année au sein du Bachelor 3 - Développemnt D'YNOV, j'intègre l'année prochaine le Master 1 Expert Développement Web de la même école.
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-### :fire: Mes Statistiques GitHub :
+### Mes Statistiques GitHub :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LyesOrd&locale=fr&date_format=j%20M%5B%20Y%5D&hide_current_streak=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyesOrd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
